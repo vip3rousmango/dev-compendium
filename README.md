@@ -7,6 +7,8 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 [VS Code - It can do what??][29]
 
+[Text Editing Techniques Front-End Devs should know][37]
+
 #### HTML
 
 [Meet the New Dialog Element][1]
@@ -100,6 +102,10 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 [Font: Dank Mono][30]
 
+[Font: Hack][35]
+
+[Font: FiraCode][36]
+
 [1]: https://keithjgrant.com/posts/2018/01/meet-the-new-dialog-element/ "Meet the New Dialog Element"
 [2]: http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/ "CSS Alignment Cheatsheet"
 [3]: https://cssreference.io/ "CSS Reference"
@@ -134,3 +140,6 @@ All the links I've found useful from Versioning. Covering a range of topics from
 [32]: https://bulma.io/ "Bulma CSS Framework"
 [33]: https://allegretto.herokuapp.com "Allegretto CSS Framework"
 [34]: https://www.hanselman.com/blog/SecuringAnAzureAppServiceWebsiteUnderSSLInMinutesWithLetsEncrypt.aspx "SSL on Azure App service in minutes"
+[35]: https://sourcefoundry.org/hack/ "Font: Hack"
+[36]: https://github.com/tonsky/FiraCode "Font: FiraCode"
+[37]: https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/ "Text Editing Techniques Front-End Devs should know"
