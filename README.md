@@ -1,19 +1,20 @@
-# Development Compendium
-All the links I've found useful from Versioning.
+All the links I've found useful from Versioning. Covering a range of topics from front-end and back-end development, Design, UI & UX, DevOps processes and tools, and a whole lot more!
+
+# Development
 
 ## Front-End
 
-### HTML
+#### HTML
 
 [Meet the New Dialog Element][1]
 
-### CSS
+#### CSS
 
 [CSS Alignment Cheatsheet][2]
 
 [CSS Reference][3]
 
-### Javascript
+#### Javascript
 
 [Six Tiny but Awesome ES7 + ES8 Features][4]
 
@@ -21,7 +22,7 @@ All the links I've found useful from Versioning.
 
 ## Back-End
 
-### Javascript
+#### Javascript
 
 [Enquirer - Stylish, intuitive and user-friendly prompts][5]
 
@@ -31,17 +32,31 @@ All the links I've found useful from Versioning.
 
 [Beginner's Guide to Javascript Prototype][11]
 
-### API
+#### API
 
 [API Security Best Practices][7]
 
-## Design
+## DevOps
 
-### Accessability
+#### Tools
+
+[7 Open Source Serverless platforms to start with][12]
+
+## Browsers
+
+[Vivaldi - The Other Chromium Browser you need to use!][17]
+
+[Blisk - The Browser for Developers][18]
+
+### Add-ons
+
+# Design
+
+## Accessability Design
 
 [Use the blurry eye test - improve visual clarity][8]
 
-### UI/UX
+## UI/UX
 
 [Why and how to use WebP images][10]
 
@@ -49,15 +64,9 @@ All the links I've found useful from Versioning.
 
 [Mobile Patterns - UI & UX Inspiration][16]
 
-### Typography
+## Typography
 
 [Font: Marvin Visions][15]
-
-## DevOps
-
-### Tools
-
-[7 Open Source Serverless platforms to start with][12]
 
 [1]: https://keithjgrant.com/posts/2018/01/meet-the-new-dialog-element/ "Meet the New Dialog Element"
 [2]: http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/ "CSS Alignment Cheatsheet"
@@ -75,3 +84,5 @@ All the links I've found useful from Versioning.
 [14]: https://www.jollycons.com/ "Jollycons - gorgeous icons"
 [15]: https://www.readvisions.com/marvin "Font: Marvin Visions"
 [16]: https://www.mobile-patterns.com/ "Mobile Patterns"
+[17]: https://vivaldi.com/ "Vivaldi Browser"
+[18]: https://blisk.io/ "Blisk Browser"
