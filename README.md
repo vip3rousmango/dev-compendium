@@ -3,6 +3,10 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 ## Front-End
 
+[Best Front-End Cheat Sheets][28]
+
+[VS Code - It can do what??][29]
+
 #### HTML
 
 [Meet the New Dialog Element][1]
@@ -13,11 +17,23 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 [CSS Reference][3]
 
+[SASS Colour Variables that Don't Suck][22]
+
+[Framework: Tachyons][31]
+
+[Framework: Bulma][32]
+
+[Framework: Allegretto][33]
+
 #### Javascript
 
 [Six Tiny but Awesome ES7 + ES8 Features][4]
 
 [Tabulator - Interactive Tables and Data Grids][13]
+
+[Quicklink - Prefetch in-viewport links during idle][23]
+
+[MJML - Responsive Email Framework][27]
 
 ## Back-End
 
@@ -34,6 +50,10 @@ All the links I've found useful from Versioning. Covering a range of topics from
 #### API
 
 [API Security Best Practices][7]
+
+#### Servers / Security
+
+[SSL on Azure App Service in Minutes][34]
 
 ## DevOps
 
@@ -56,6 +76,8 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 [Use the blurry eye test - improve visual clarity][8]
 
+[SVG Icons with inline Sprites][26]
+
 #### UI/UX
 
 [Why and how to use WebP images][10]
@@ -64,11 +86,19 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 [Mobile Patterns - UI & UX Inspiration][16]
 
+[Humaaans - Mix & Match illustrations of people][21]
+
+[Building a design system, not just a UI Kit][24]
+
 #### Typography
 
 [Font: Marvin Visions][15]
 
 [Font: Optician Sans][20]
+
+[Fonts: 10 Retro Fonts][25]
+
+[Font: Dank Mono][30]
 
 [1]: https://keithjgrant.com/posts/2018/01/meet-the-new-dialog-element/ "Meet the New Dialog Element"
 [2]: http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/ "CSS Alignment Cheatsheet"
@@ -90,3 +120,17 @@ All the links I've found useful from Versioning. Covering a range of topics from
 [18]: https://blisk.io/ "Blisk Browser"
 [19]: https://github.com/cantino/mcfly "Mcfly"
 [20]: https://optician-sans.com/ "Optician sans"
+[21]: https://www.humaaans.com/ "Humaaans"
+[22]: https://davidwalsh.name/sass-color-variables-dont-suck "SASS Colour variabiles"
+[23]: https://github.com/GoogleChromeLabs/quicklink "Quicklink"
+[24]: https://uxdesign.cc/a-design-system-not-just-a-ui-kit-e3c8aaed0c98 "Building a Design System"
+[25]: https://speckyboy.com/free-retro-fonts/ "10 Free Retro Fonts"
+[26]: https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/ "SVG Icons with inline sprites"
+[27]: https://mjml.io/ "mjml - responsive email framework"
+[28]: https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a "Front-end Cheatsheets"
+[29]: https://vscodecandothat.com/ "Visual Studio Code can do what??"
+[30]: https://dank.sh/ "Fonts: Dank Mono"
+[31]: http://tachyons.io/ "Tachyons CSS Framework"
+[32]: https://bulma.io/ "Bulma CSS Framework"
+[33]: https://allegretto.herokuapp.com "Allegretto CSS Framework"
+[34]: https://www.hanselman.com/blog/SecuringAnAzureAppServiceWebsiteUnderSSLInMinutesWithLetsEncrypt.aspx "SSl on Azure App service in minutes"
