@@ -41,8 +41,6 @@ All the links I've found useful from Versioning.
 
 [Why and how to use WebP images][10]
 
-
-
 [1]: https://keithjgrant.com/posts/2018/01/meet-the-new-dialog-element/ "Meet the New Dialog Element"
 [2]: http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/ "CSS Alignment Cheatsheet"
 [3]: https://cssreference.io/ "CSS Reference"
