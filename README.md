@@ -17,6 +17,8 @@ All the links I've found useful from Versioning.
 
 [Six Tiny but Awesome ES7 + ES8 Features][4]
 
+[Tabulator - Interactive Tables and Data Grids][13]
+
 ## Back-End
 
 ### Javascript
@@ -43,6 +45,12 @@ All the links I've found useful from Versioning.
 
 [Why and how to use WebP images][10]
 
+## DevOps
+
+### Tools
+
+[7 Open Source Serverless platforms to start with][12]
+
 [1]: https://keithjgrant.com/posts/2018/01/meet-the-new-dialog-element/ "Meet the New Dialog Element"
 [2]: http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/ "CSS Alignment Cheatsheet"
 [3]: https://cssreference.io/ "CSS Reference"
@@ -54,3 +62,5 @@ All the links I've found useful from Versioning.
 [9]: https://www.npmjs.com/package/progress-estimator "Progress - estimator for promises"
 [10]: https://bitsofco.de/why-and-how-to-use-webp-images-today/ "Why and how to use WebP images"
 [11]: https://tylermcginnis.com/beginners-guide-to-javascript-prototype/ "Beginner's Guide to JS Prototype"
+[12]: https://tylermcginnis.com/beginners-guide-to-javascript-prototype/ "7 open source serverless platforms"
+[13]: https://github.com/olifolkerd/tabulator "tabulator interactive tables and data grids"
