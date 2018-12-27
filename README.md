@@ -45,6 +45,8 @@ All the links I've found useful from Versioning.
 
 [Why and how to use WebP images][10]
 
+[Jollycons - gorgeous icon sets with fun and friendly touch][14]
+
 ## DevOps
 
 ### Tools
@@ -64,3 +66,4 @@ All the links I've found useful from Versioning.
 [11]: https://tylermcginnis.com/beginners-guide-to-javascript-prototype/ "Beginner's Guide to JS Prototype"
 [12]: https://tylermcginnis.com/beginners-guide-to-javascript-prototype/ "7 open source serverless platforms"
 [13]: https://github.com/olifolkerd/tabulator "tabulator interactive tables and data grids"
+[14]: https://www.jollycons.com/ "Jollycons - gorgeous icons"
