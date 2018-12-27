@@ -47,6 +47,12 @@ All the links I've found useful from Versioning.
 
 [Jollycons - gorgeous icon sets with fun and friendly touch][14]
 
+[Mobile Patterns - UI & UX Inspiration][16]
+
+### Typography
+
+[Font: Marvin Visions][15]
+
 ## DevOps
 
 ### Tools
@@ -67,3 +73,5 @@ All the links I've found useful from Versioning.
 [12]: https://tylermcginnis.com/beginners-guide-to-javascript-prototype/ "7 open source serverless platforms"
 [13]: https://github.com/olifolkerd/tabulator "tabulator interactive tables and data grids"
 [14]: https://www.jollycons.com/ "Jollycons - gorgeous icons"
+[15]: https://www.readvisions.com/marvin "Font: Marvin Visions"
+[16]: https://www.mobile-patterns.com/ "Mobile Patterns"
