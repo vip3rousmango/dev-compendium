@@ -25,6 +25,8 @@ All the links I've found useful from Versioning.
 
 [Taskbook - Tasks, notes and Boards in your terminal][6]
 
+[Progress - A progress bar for promises][9]
+
 ### API
 
 [API Security Best Practices][7]
@@ -34,6 +36,10 @@ All the links I've found useful from Versioning.
 ### Accessability
 
 [Use the blurry eye test - improve visual clarity][8]
+
+### UI/UX
+
+[Why and how to use WebP images][10]
 
 
 
@@ -45,3 +51,5 @@ All the links I've found useful from Versioning.
 [6]: https://github.com/klaussinani/taskbook "taskbook - tasks and notes in command line"
 [7]: https://github.com/GitGuardian/APISecurityBestPractices/blob/master/Leak%20Mitigation%20Checklist.md "Api security best practice"
 [8]: https://github.com/GitGuardian/APISecurityBestPractices/blob/master/Leak%20Mitigation%20Checklist.md "Use the blurry eye test in design"
+[9]: https://www.npmjs.com/package/progress-estimator "Progress - estimator for promises"
+[10]: https://bitsofco.de/why-and-how-to-use-webp-images-today/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning "Why and how to use WebP images"
