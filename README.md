@@ -1,6 +1,5 @@
+# Development Compendium
 All the links I've found useful from Versioning. Covering a range of topics from front-end and back-end development, Design, UI & UX, DevOps processes and tools, and a whole lot more!
-
-# Development
 
 ## Front-End
 
@@ -51,13 +50,13 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 #### Add-ons
 
-# Design
+## Design
 
-## Accessability Design
+#### Accessability Design
 
 [Use the blurry eye test - improve visual clarity][8]
 
-## UI/UX
+#### UI/UX
 
 [Why and how to use WebP images][10]
 
@@ -65,7 +64,7 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 [Mobile Patterns - UI & UX Inspiration][16]
 
-## Typography
+#### Typography
 
 [Font: Marvin Visions][15]
 
