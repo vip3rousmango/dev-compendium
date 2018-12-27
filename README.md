@@ -41,10 +41,11 @@ All the links I've found useful from Versioning. Covering a range of topics from
 #### Tools
 
 [7 Open Source Serverless platforms to start with][12]
+[McFly - Epic terminal search!][19]
 
 ## Browsers
 
-[Vivaldi - The Other Chromium Browser you need to use!][17]
+[Vivaldi - The Other Chromium Browser you need to use][17]
 
 [Blisk - The Browser for Developers][18]
 
@@ -68,6 +69,8 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 [Font: Marvin Visions][15]
 
+[Font: Optician Sans][20]
+
 [1]: https://keithjgrant.com/posts/2018/01/meet-the-new-dialog-element/ "Meet the New Dialog Element"
 [2]: http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/ "CSS Alignment Cheatsheet"
 [3]: https://cssreference.io/ "CSS Reference"
@@ -86,3 +89,5 @@ All the links I've found useful from Versioning. Covering a range of topics from
 [16]: https://www.mobile-patterns.com/ "Mobile Patterns"
 [17]: https://vivaldi.com/ "Vivaldi Browser"
 [18]: https://blisk.io/ "Blisk Browser"
+[19]: https://github.com/cantino/mcfly "Mcfly"
+[20]: https://optician-sans.com/ "Optician sans"
