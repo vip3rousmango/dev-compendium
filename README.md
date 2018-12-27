@@ -133,4 +133,4 @@ All the links I've found useful from Versioning. Covering a range of topics from
 [31]: http://tachyons.io/ "Tachyons CSS Framework"
 [32]: https://bulma.io/ "Bulma CSS Framework"
 [33]: https://allegretto.herokuapp.com "Allegretto CSS Framework"
-[34]: https://www.hanselman.com/blog/SecuringAnAzureAppServiceWebsiteUnderSSLInMinutesWithLetsEncrypt.aspx "SSl on Azure App service in minutes"
+[34]: https://www.hanselman.com/blog/SecuringAnAzureAppServiceWebsiteUnderSSLInMinutesWithLetsEncrypt.aspx "SSL on Azure App service in minutes"
