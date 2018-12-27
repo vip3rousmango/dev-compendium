@@ -27,6 +27,8 @@ All the links I've found useful from Versioning.
 
 [Progress - A progress bar for promises][9]
 
+[Beginner's Guide to Javascript Prototype][11]
+
 ### API
 
 [API Security Best Practices][7]
@@ -51,3 +53,4 @@ All the links I've found useful from Versioning.
 [8]: https://github.com/GitGuardian/APISecurityBestPractices/blob/master/Leak%20Mitigation%20Checklist.md "Use the blurry eye test in design"
 [9]: https://www.npmjs.com/package/progress-estimator "Progress - estimator for promises"
 [10]: https://bitsofco.de/why-and-how-to-use-webp-images-today/ "Why and how to use WebP images"
+[11]: https://tylermcginnis.com/beginners-guide-to-javascript-prototype/ "Beginner's Guide to JS Prototype"
