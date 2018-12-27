@@ -23,8 +23,11 @@ All the links I've found useful from Versioning.
 
 [Enquirer - Stylish, intuitive and user-friendly prompts][5]
 
+[Taskbook - Tasks, notes and Boards in your terminal][6]
 
+### API
 
+[API Security Best Practices][7]
 
 
 
@@ -33,3 +36,5 @@ All the links I've found useful from Versioning.
 [3]: https://cssreference.io/ "CSS Reference"
 [4]: https://davidwalsh.name/es7-es8-features "Six Tiny but Awesome ES7 + ES8 Features"
 [5]: https://github.com/enquirer/enquirer?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning "Stylish user-friendly prompts"
+[6]: https://github.com/klaussinani/taskbook?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning "taskbook - tasks and notes in command line"
+[7]: https://github.com/GitGuardian/APISecurityBestPractices/blob/master/Leak%20Mitigation%20Checklist.md?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning "Api security best practice"
