@@ -80,6 +80,8 @@ All the links I've found useful from Versioning. Covering a range of topics from
 
 [SVG Icons with inline Sprites][26]
 
+[Contraste - Accessability Text Checker][38]
+
 #### UI/UX
 
 [Why and how to use WebP images][10]
@@ -143,3 +145,4 @@ All the links I've found useful from Versioning. Covering a range of topics from
 [35]: https://sourcefoundry.org/hack/ "Font: Hack"
 [36]: https://github.com/tonsky/FiraCode "Font: FiraCode"
 [37]: https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/ "Text Editing Techniques Front-End Devs should know"
+[38]: https://contrasteapp.com/ "Contrast App"
