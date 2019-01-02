@@ -1,5 +1,5 @@
 # Development Compendium
-All the links I've found useful from Versioning. Covering a range of topics from front-end and back-end development, Design, UI & UX, DevOps processes and tools, and a whole lot more!
+All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. Covering a range of topics from front-end and back-end development, Design, UI & UX, DevOps processes and tools, and a whole lot more!
 
 ## Front-End
 
@@ -146,3 +146,4 @@ All the links I've found useful from Versioning. Covering a range of topics from
 [36]: https://github.com/tonsky/FiraCode "Font: FiraCode"
 [37]: https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/ "Text Editing Techniques Front-End Devs should know"
 [38]: https://contrasteapp.com/ "Contrast App"
+[39]: https://versioning.substack.com "Versioning Newsletter"
