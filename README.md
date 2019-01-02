@@ -62,7 +62,10 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 #### Tools
 
 [7 Open Source Serverless platforms to start with][12]
+
 [McFly - Epic terminal search!][19]
+
+[Autogit - Automate git tasks with custom commands][41]
 
 ## Browsers
 
@@ -93,6 +96,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [Humaaans - Mix & Match illustrations of people][21]
 
 [Building a design system, not just a UI Kit][24]
+
+[Behavioural Economics to the Design Process][40]
 
 #### Typography
 
@@ -147,3 +152,5 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [37]: https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/ "Text Editing Techniques Front-End Devs should know"
 [38]: https://contrasteapp.com/ "Contrast App"
 [39]: https://versioning.substack.com "Versioning Newsletter"
+[40]: https://medium.com/common-good/how-to-apply-behavioural-economics-to-the-design-process-8eb9458bec62 "behavioural economics to the design process"
+[41]: http://fabiospampinato.com/autogit/ "Autogit"
