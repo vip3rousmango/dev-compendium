@@ -37,6 +37,10 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [MJML - Responsive Email Framework][27]
 
+[Matomo - Self-Hosted Web Analytics][42]
+
+[Minimal Google Analytics Snippit][43]
+
 ## Back-End
 
 #### Javascript
@@ -154,3 +158,5 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [39]: https://versioning.substack.com "Versioning Newsletter"
 [40]: https://medium.com/common-good/how-to-apply-behavioural-economics-to-the-design-process-8eb9458bec62 "behavioural economics to the design process"
 [41]: http://fabiospampinato.com/autogit/ "Autogit"
+[42]: https://matomo.org/ "Matomo - The Other Web Analytics"
+[43]: https://minimalanalytics.com/ "Minimal Analytics - Google Analytics Snippet"
