@@ -71,6 +71,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [Autogit - Automate git tasks with custom commands][41]
 
+[NPM Tips and Tricks][44]
+
 ## Browsers
 
 [Vivaldi - The Other Chromium Browser you need to use][17]
@@ -160,3 +162,4 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [41]: http://fabiospampinato.com/autogit/ "Autogit"
 [42]: https://matomo.org/ "Matomo - The Other Web Analytics"
 [43]: https://minimalanalytics.com/ "Minimal Analytics - Google Analytics Snippet"
+[44]: http://www.tomsquest.com/blog/2018/10/better-npm-ing/ "npm tips and tricks"
