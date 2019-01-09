@@ -97,6 +97,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [Jollycons - gorgeous icon sets with fun and friendly touch][14]
 
+[Essential Icons Pack by InVision][45]
+
 [Mobile Patterns - UI & UX Inspiration][16]
 
 [Humaaans - Mix & Match illustrations of people][21]
@@ -163,3 +165,4 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [42]: https://matomo.org/ "Matomo - The Other Web Analytics"
 [43]: https://minimalanalytics.com/ "Minimal Analytics - Google Analytics Snippet"
 [44]: http://www.tomsquest.com/blog/2018/10/better-npm-ing/ "npm tips and tricks"
+[45]: https://www.invisionapp.com/inside-design/design-resources/essentials-icon-pack/ "Essentials Icon Pack - InVision"
