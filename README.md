@@ -81,6 +81,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 #### Add-ons
 
+[Page Tools - Extend Inspector with Custom Tooling][46]
+
 ## Design
 
 #### Accessability Design
@@ -166,3 +168,4 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [43]: https://minimalanalytics.com/ "Minimal Analytics - Google Analytics Snippet"
 [44]: http://www.tomsquest.com/blog/2018/10/better-npm-ing/ "npm tips and tricks"
 [45]: https://www.invisionapp.com/inside-design/design-resources/essentials-icon-pack/ "Essentials Icon Pack - InVision"
+[46]: https://scriptartist.github.io/PageTools/ "Page Tools"
