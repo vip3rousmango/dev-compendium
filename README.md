@@ -9,6 +9,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [Text Editing Techniques Front-End Devs should know][37]
 
+[Should I use JS to load web fonts?][47]
+
 #### HTML
 
 [Meet the New Dialog Element][1]
@@ -169,3 +171,4 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [44]: http://www.tomsquest.com/blog/2018/10/better-npm-ing/ "npm tips and tricks"
 [45]: https://www.invisionapp.com/inside-design/design-resources/essentials-icon-pack/ "Essentials Icon Pack - InVision"
 [46]: https://scriptartist.github.io/PageTools/ "Page Tools"
+[47]: https://www.filamentgroup.com/lab/js-web-fonts.html "Should I use JS to load my Web Fonts?"
