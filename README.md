@@ -11,6 +11,10 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [Should I use JS to load web fonts?][47]
 
+[Hyper - Terminal in Electron][50]
+
+[Cmder - Portable console emulator for Windows][51]
+
 #### HTML
 
 [Meet the New Dialog Element][1]
@@ -182,3 +186,5 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [47]: https://www.filamentgroup.com/lab/js-web-fonts.html "Should I use JS to load my Web Fonts?"
 [48]: https://www.designbombs.com/wordpress-filters-cheat-sheet/ "WordPress Filters cheat-sheet"
 [49]: https://blog.prototypr.io/free-color-tools-for-designers-vol-2-c38e652f7a11 "Free colour tools for Designers vol.2"
+[50]: https://hyper.is/ "Hyper - the Electron Terminal"
+[51]: http://cmder.net/ "Cmder - Portable console emulator for Windows"
