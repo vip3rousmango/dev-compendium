@@ -87,6 +87,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 ## Design
 
+[Free colour tools vol.2][49]
+
 #### Accessability Design
 
 [Use the blurry eye test - improve visual clarity][8]
@@ -124,6 +126,12 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [Font: Hack][35]
 
 [Font: FiraCode][36]
+
+## Other
+
+#### WordPress
+
+[WordPress filters cheat-sheet][48]
 
 [1]: https://keithjgrant.com/posts/2018/01/meet-the-new-dialog-element/ "Meet the New Dialog Element"
 [2]: http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/ "CSS Alignment Cheatsheet"
@@ -172,3 +180,5 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [45]: https://www.invisionapp.com/inside-design/design-resources/essentials-icon-pack/ "Essentials Icon Pack - InVision"
 [46]: https://scriptartist.github.io/PageTools/ "Page Tools"
 [47]: https://www.filamentgroup.com/lab/js-web-fonts.html "Should I use JS to load my Web Fonts?"
+[48]: https://www.designbombs.com/wordpress-filters-cheat-sheet/ "WordPress Filters cheat-sheet"
+[49]: https://blog.prototypr.io/free-color-tools-for-designers-vol-2-c38e652f7a11 "Free colour tools for Designers vol.2"
