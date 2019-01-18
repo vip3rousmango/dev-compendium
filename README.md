@@ -81,6 +81,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [NPM Tips and Tricks][44]
 
+[OpenVPN - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole][53]
+
 ## Browsers
 
 [Vivaldi - The Other Chromium Browser you need to use][17]
@@ -191,3 +193,4 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [50]: https://hyper.is/ "Hyper - the Electron Terminal"
 [51]: http://cmder.net/ "Cmder - Portable console emulator for Windows"
 [52]: https://github.com/jonschlinkert/hyper-monokai-extended "Hyper - Monokai Extended Theme"
+[53]: https://github.com/ezaquarii/vpn-at-home "OpenVPN at home"
