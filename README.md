@@ -83,6 +83,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [OpenVPN - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole][53]
 
+[Jetpack - A nifty wrapper around Webpack][54]
+
 ## Browsers
 
 [Vivaldi - The Other Chromium Browser you need to use][17]
@@ -194,3 +196,4 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [51]: http://cmder.net/ "Cmder - Portable console emulator for Windows"
 [52]: https://github.com/jonschlinkert/hyper-monokai-extended "Hyper - Monokai Extended Theme"
 [53]: https://github.com/ezaquarii/vpn-at-home "OpenVPN at home"
+[54]: https://github.com/KidkArolis/jetpack "Jetpack - Webpack wrapper"
