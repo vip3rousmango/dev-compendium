@@ -99,6 +99,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [Free colour tools vol.2][49]
 
+[Cloudflare Design - Color][55]
+
 #### Accessability Design
 
 [Use the blurry eye test - improve visual clarity][8]
@@ -136,6 +138,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [Font: Hack][35]
 
 [Font: FiraCode][36]
+
+[Font: Heldane][56]
 
 ## Other
 
@@ -197,3 +201,5 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [52]: https://github.com/jonschlinkert/hyper-monokai-extended "Hyper - Monokai Extended Theme"
 [53]: https://github.com/ezaquarii/vpn-at-home "OpenVPN at home"
 [54]: https://github.com/KidkArolis/jetpack "Jetpack - Webpack wrapper"
+[55]: https://cloudflare.design/color/ "Cloudflare - Color Designer"
+[56]: https://klim.co.nz/blog/heldane-design-information/ "Heldane - Klim Type Foundry"
