@@ -127,6 +127,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 #### Typography
 
+[Font: Inter UI][57]
+
 [Font: Marvin Visions][15]
 
 [Font: Optician Sans][20]
@@ -203,3 +205,4 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [54]: https://github.com/KidkArolis/jetpack "Jetpack - Webpack wrapper"
 [55]: https://cloudflare.design/color/ "Cloudflare - Color Designer"
 [56]: https://klim.co.nz/blog/heldane-design-information/ "Heldane - Klim Type Foundry"
+[57]: https://rsms.me/inter/ "Inter UI - typeface for UI"
