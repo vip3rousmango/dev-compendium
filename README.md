@@ -115,6 +115,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [Jollycons - gorgeous icon sets with fun and friendly touch][14]
 
+[Streamline Icons - Over 30,000 icons beautifully crafted][58]
+
 [Essential Icons Pack by InVision][45]
 
 [Mobile Patterns - UI & UX Inspiration][16]
@@ -206,3 +208,4 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [55]: https://cloudflare.design/color/ "Cloudflare - Color Designer"
 [56]: https://klim.co.nz/blog/heldane-design-information/ "Heldane - Klim Type Foundry"
 [57]: https://rsms.me/inter/ "Inter UI - typeface for UI"
+[58]: https://streamlineicons.com/ "Streamline Icons - 30,000 Icons"
