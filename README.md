@@ -117,6 +117,8 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 
 [Streamline Icons - Over 30,000 icons beautifully crafted][58]
 
+[Streamline Illustrations - 3,000 vector Illustrations beautifully crafted][60]
+
 [Essential Icons Pack by InVision][45]
 
 [Mobile Patterns - UI & UX Inspiration][16]
@@ -209,4 +211,4 @@ All the links I've found useful from [Versioning Newsletter][39] by Sitepoint. C
 [56]: https://klim.co.nz/blog/heldane-design-information/ "Heldane - Klim Type Foundry"
 [57]: https://rsms.me/inter/ "Inter UI - typeface for UI"
 [58]: https://streamlineicons.com/ "Streamline Icons - 30,000 Icons"
-[60]:
+[60]: https://streamlineicons.com/ux/index.html "Streamline Illustrations - 3,000 UX Vectors"
